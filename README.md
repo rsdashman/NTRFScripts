@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔥 NTRF Scripts 🔥
+   NTRF Scripts 
 </h1>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  Scripts avançados de Roblox com foco em utilidade, organização e estilo.
+  Advanced Roblox scripts focusing on utility, organization, and style.
   <br />
-  <i>Interface, loggers e automações reunidas num só lugar.</i>
+  
 </p>
 
 ---
