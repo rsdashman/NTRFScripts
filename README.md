@@ -14,23 +14,15 @@
 
 ---
 
-## 🚀 Destaques
+## 🚀 Highlights
 
-- ✅ Loaders universais
-- 🧠 Scripts customizados para Roblox
-- 🎨 Interface feita com Guna2 e RealTAIIZOR (em WindowsForms)
-- 📦 Tudo organizado por pastas
+- ✅ Universal loaders
+- 🧠 Custom scripts for Roblox
+- 📦 Everything organized into folders
 
-## 🛠 Tecnologias usadas
+## 🛠 Technologies used
 
-- Lua (para scripts Roblox)
-- .NET + Windows Forms (para interface offline)
-- Guna.UI2 / RealTAIIZOR (UI frameworks)
+- Lua (for Roblox scripts)
 
-## 💾 Como usar
 
-1. Copie o script desejado
-2. Cole no executor Roblox (Fluxus, KRNL, Hydrogen, etc)
-3. Curta os resultados 😎
 
-> ⚠️ **Atenção**: conteúdo fe
